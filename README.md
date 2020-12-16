@@ -11,3 +11,13 @@
 ### 2. Preprocessing
   * [Feature Scaling](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Preprocessing/Feature_Scaling.ipynb)
   * [One Hot Encoding](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Preprocessing/One_hot_Encoding.ipynb)
+### 3. Regularization
+  * [Preventing UnderFit](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Regularization/Overfitting.ipynb)
+  * [Lasso & Ridge Model](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Regularization/Lasso_Ridge_Model.ipynb)
+### 4. Model Evaluation
+  * [K-fold Cross Validation](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Model_Evaluation/K_Fold_CV.ipynb)
+  * [Grid Search](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Model_Evaluation/Grid_Search.ipynb)
+### 5. Decision Tree & Ensemble Learning
+  * [Decision Tree](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Decision_Tree_Ensemble/Decision_Tree.ipynb)
+  * [Random Forest : Bagging](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Decision_Tree_Ensemble/Random_Forest.ipynb)
+  * [Boosting : Adaboost](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Decision_Tree_Ensemble/Adaboost.ipynb)
