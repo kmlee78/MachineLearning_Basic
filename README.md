@@ -21,5 +21,5 @@
   * [Decision Tree](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Decision_Tree_Ensemble/Decision_Tree.ipynb)
   * [Random Forest : Bagging](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Decision_Tree_Ensemble/Random_Forest.ipynb)
   * [Boosting : Adaboost](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Decision_Tree_Ensemble/Adaboost.ipynb)
-### 5. Recommendation System
+### 6. Recommendation System
   * [Collaborative Filtering](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Recommendation_System/Collaborative_Filtering.ipynb)
