@@ -24,3 +24,5 @@
 ### 6. Recommendation System
   * [Collaborative Filtering](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Recommendation_System/Collaborative_Filtering.ipynb)
   * [Matrix Factorization](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Recommendation_System/Matrix_Factorization.ipynb)
+### 7. Deep Learning
+  * [Forward Propagation](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Deep_Learning/Forward_Propagation.ipynb)
