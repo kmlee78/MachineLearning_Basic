@@ -28,7 +28,7 @@
   * [Forward Propagation](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Deep_Learning/Forward_Propagation.ipynb)
   * [Backward Propagation](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Deep_Learning/Back_Propagation.ipynb)
 
-***
+<br/><br/>
 # TensorFlow
 -------------
 ### 1. ML
