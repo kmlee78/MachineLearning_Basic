@@ -35,3 +35,5 @@
   * [Simple Linear Regression](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Tensorflow/Simple_Linear_Regression.ipynb)
   * [Linear Regression](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Tensorflow/Linear_Regression.ipynb)
   * [Multiple Linear Regression](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Tensorflow/Multiple_Linear_Regression.ipynb)
+  * [Logistic Regression](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Tensorflow/Logistic_Regression.ipynb)
+  * [Softmax Classifier](https://github.com/kmlee78/Machine_Learning_Basic/blob/master/Tensorflow/Softmax_Classifier.ipynb)
